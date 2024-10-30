@@ -7,6 +7,6 @@
 </head>
 <body>
 <h1>Pedro Oliveira e Thaynná Céo</h1>
-
+<img src="imagens.jpg" alt="Pizza" >
 </body>
 </html>
