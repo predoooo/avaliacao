@@ -6,8 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Pedro Oliveira e Thaynná Céo</h1>
-<img src="imagens.jpg" alt="Pizza" >
-<a href="cadastros.php"><button>Abrir cadastros</button></a>
+    <h1>Você foi redirecionado</h1>
 </body>
 </html>
